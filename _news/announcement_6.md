@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started PhD in Biomedical Data Science at Stanford University 
+Started PhD in [Biomedical Data Science](https://dbds.stanford.edu/) at Stanford University 
