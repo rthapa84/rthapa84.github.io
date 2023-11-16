@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Announced a 2023 [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/people/rahul-thapa) at Stanford University
+Selected as a 2023 [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/people/rahul-thapa) at Stanford University
 
 
 

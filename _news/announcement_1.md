@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduate from [Villanova University](https://www1.villanova.edu/university.html) with a BS in Computer Science
+Graduated from [Villanova University](https://www1.villanova.edu/university.html) with a BS in Computer Science

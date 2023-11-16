@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Joined [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) as a Data Scientist, working very closely with Dr. [Nigam Shah](https://shahlab.stanford.edu/)
+Joined [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) as a Data Scientist, working closely with Dr. [Nigam Shah](https://shahlab.stanford.edu/)
 
 
