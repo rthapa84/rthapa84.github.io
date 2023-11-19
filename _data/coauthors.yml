@@ -1,34 +1,31 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Thapa":
+- firstname: ["Rahul", "R"]
+  url: https://rthapa84.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+# "El Emam":
+#   - firstname: ["Christian"]
+#     url: https://math.uni.lu/elemam/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+# "Tamburelli":
+#   - firstname: ["Andrea"]
+#     url: https://pagine.dm.unipi.it/~a019210/index.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+# "Seppi":
+#   - firstname: ["Andrea"]
+#     url: http://seppi.perso.math.cnrs.fr/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+# "Viaggi":
+#   - firstname: ["Gabriele"]
+#     url: https://sites.google.com/uniroma1.it/gabriele-viaggi/home?authuser=1
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+# "Zhang":
+#   - firstname: ["Tengren"]
+#     url: https://sites.google.com/site/tengren85/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+# "Martone":
+#   - firstname: ["Giuseppe"]
+#     url: https://sites.google.com/view/giuseppemartone/home
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+# "Maloni":
+#   - firstname: ["Sara"]
+#     url: https://sites.google.com/view/sara-maloni
